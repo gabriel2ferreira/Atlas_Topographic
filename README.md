@@ -1,7 +1,10 @@
 # Atlas_Topographic
 
 <p align="center">
-  &copy; 2023 Atlas Topográfico | Desenvolvido por Engenheiros do IFPB
+  &copy; 2023 Atlas Topográfico | Desenvolvido por Gabriel Ferreira
+</p>
+<p align="center">
+  Discente de Engenharia Civil | Sertão Maker - IFPB Campus Patos
 </p>
 
 # Atlas Topográfico
