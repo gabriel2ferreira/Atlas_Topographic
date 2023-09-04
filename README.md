@@ -1,24 +1,33 @@
 # Atlas_Topographic
-# Atlas_Topographic
 
+<p align="center">
+  &copy; 2023 Atlas Topográfico | Desenvolvido por Engenheiros do IFPB
+</p>
 
-O **Atlas Topográfico** é um conjunto de programas desenvolvidos para a disciplina de Cálculo IV do curso de Engenharia Civil no Instituto Federal da Paraíba (IFPB). Estes programas foram projetados para auxiliar na análise e manipulação de dados geoespaciais, especificamente no contexto da topografia.
+# Atlas Topográfico
 
-## Objetivos
+O **Atlas Topográfico** é um conjunto de ferramentas desenvolvidas como parte da disciplina de Cálculo IV do curso de Engenharia Civil do Instituto Federal da Paraíba (IFPB). Este projeto tem como objetivo simplificar tarefas relacionadas a dados topográficos e geoespaciais, proporcionando uma plataforma para análise e manipulação desses dados.
 
-O objetivo principal do **Atlas Topográfico** é fornecer ferramentas que simplificam tarefas relacionadas a dados topográficos e geoespaciais. As principais funcionalidades incluem:
+---
 
-1. **Conversão de Coordenadas:** Um dos componentes essenciais da topografia é trabalhar com diferentes sistemas de coordenadas, como Latitude/Longitude e UTM. O Atlas Topográfico oferece uma calculadora de conversão para facilitar a conversão entre esses sistemas.
+## :rocket: Funcionalidades
 
-2. **Cálculo de Áreas:** O programa também inclui um utilitário para calcular áreas de polígonos em metros quadrados com base em coordenadas geoespaciais.
+- **Conversão de Coordenadas:** Converta facilmente entre sistemas de coordenadas geográficas, como Latitude/Longitude, e sistemas projetados, como UTM.
 
-3. **Visualização Gráfica:** Você pode visualizar dados topográficos em um ambiente gráfico tridimensional para análise e inspeção visual.
+- **Cálculo de Áreas:** Realize cálculos precisos de áreas de polígonos em metros quadrados com base em coordenadas geoespaciais.
 
-4. **Processamento de Dados:** O Atlas Topográfico permite o processamento e manipulação de dados topográficos para várias finalidades acadêmicas e profissionais.
+- **Visualização Gráfica:** Visualize seus dados topográficos em um ambiente gráfico tridimensional para análise e inspeção visual.
 
-## Uso
+- **Processamento de Dados:** Manipule e processe dados topográficos para várias finalidades acadêmicas e profissionais.
 
-Para utilizar o **Atlas Topográfico**, siga estas etapas:
+---
+
+## :computer: Uso
+
+1. **Instalação de Dependências:** Certifique-se de que você possui as dependências necessárias instaladas. Para começar, você precisará do Python e das bibliotecas Matplotlib, Geopandas e Pyproj. Você pode instalá-las com o seguinte comando:
+
+   ```shell
+   pip install matplotlib geopandas pyproj
 
 1. **Instalação de Dependências:** Certifique-se de que você tem todas as dependências necessárias instaladas. Isso inclui Python, bibliotecas como Matplotlib, Geopandas e Pyproj, entre outras.
 
@@ -32,7 +41,7 @@ Contribuições são bem-vindas! Se você encontrar problemas, bugs ou desejar a
 
 ## Licença
 
-Este projeto é licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
+ Consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
 
 ---
 
